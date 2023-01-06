@@ -1,3 +1,0 @@
-construtor(props){
-    
-}
